@@ -20,4 +20,3 @@ VALUES ("John", "Doe", 23), ("Eric", "Smith", 26);
 SELECT * FROM customers;
 UPDATE customers SET age = 27 WHERE first_name = "Eric";
 SELECT * FROM customers;
-
